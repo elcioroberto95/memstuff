@@ -14,6 +14,6 @@ const kDatabaseVersion = 1;
 
 const kButtonPadding = 15.0;
 const kButtonHeight = 52.0;
-const kButtonRadius = 10.0;
-const kButtonFontSize = 17.0;
+const kButtonRadius = 5.0;
+const kButtonFontSize = 15.0;
 const kButtonLetterSpacing = 1.00;
