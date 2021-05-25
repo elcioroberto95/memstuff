@@ -1,13 +1,13 @@
 const kAppTitle = 'MemStuff';
 
-const kTitleNewLoan = 'Novo empréstimo';
-const kTitleDetails = 'Detalhes';
-const kLabelName = 'Nome';
-const kLabelDescription = 'Descrição';
-const kLabelPhone = 'Telefone';
-const kLabelLoanDate = 'Data do empréstimo';
-const kButtonClean = 'Limpar';
-const kButtonSave = 'Salvar';
+const kTitleNewLoan = 'New loan';
+const kTitleDetails = 'Details';
+const kLabelName = 'Name';
+const kLabelDescription = 'Description';
+const kLabelPhone = 'Telephone';
+const kLabelLoanDate = 'Loan details';
+const kButtonClean = 'Clear';
+const kButtonSave = 'Save';
 
 const kDatabaseName = 'memstuff.db';
 const kDatabaseVersion = 1;
